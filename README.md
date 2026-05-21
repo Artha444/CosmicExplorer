@@ -41,4 +41,4 @@ https://api.nasa.gov/#signUp
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/cosmic-explorer.git
+git clone https://github.com/Artha444/CosmicExplorer.git
