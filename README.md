@@ -1,16 +1,44 @@
-# React + Vite
+# 🌌 Cosmic Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern space exploration web app built with React.js using the NASA Open API.  
+Discover stunning astronomy pictures, space data, and cosmic events in real time.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 🪐 NASA Astronomy Picture of the Day (APOD)
+- 🌠 Real-time space imagery from NASA API
+- 🔭 Clean and responsive UI
+- ⚛️ Built with React.js
+- 🌐 No backend required (public API only)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Preview](./Screenshot/VibeStream.png)
+
+---
+
+## 🌍 API Used
+
+This project uses the free NASA Open API:
+
+- APOD (Astronomy Picture of the Day)
+- NASA Image Library (optional expansion)
+
+API Documentation:
+https://api.nasa.gov/
+
+You can get your free API key here:
+https://api.nasa.gov/#signUp
+
+---
+
+## ⚙️ Installation
+
+Clone this repository:
+
+```bash
+git clone https://github.com/your-username/cosmic-explorer.git
