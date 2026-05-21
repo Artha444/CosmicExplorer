@@ -17,7 +17,7 @@ Discover stunning astronomy pictures, space data, and cosmic events in real time
 
 ## 🖼️ Preview
 
-![Preview](./Screenshot/cosmic_explorer.png)
+![Preview](./Screenshot/Cosmic_Explorer.png)
 
 ---
 
